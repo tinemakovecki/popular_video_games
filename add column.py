@@ -1,9 +1,10 @@
 import csv
+import re
 
 def add_column(source, output, column_name, extra):
     with open(source, "r") as csv_source:
         with open(output, 'w') as csv_dat:
-            fieldnames = ['#','Game','Release date', 'Price', 'Score rank(Userscore / Metascore)', 'Owners', 'Playtime (Median)', column_name]
+            fieldnames = ['#','Game','Release date', 'Price', 'Userscore', 'Metascore', column_name, 'Owners', 'Average playtime', 'Median playtime']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
 
@@ -18,4 +19,14 @@ def add_column(source, output, column_name, extra):
                 writer.writerow(row)
 
 
-add_column('Activision.csv', 'Activison_fix.csv', 'Publisher', 'Activision')
+
+#column_name = 'Publisher'
+#tidy_up('Electronic Arts.csv', 'Electronic Arts-.csv')
+#tidy_up('Bethesda Softworks.csv', 'Bethesda Softworks-.csv')
+#tidy_up('Klei Entertainment.csv', 'Klei Entertainment-.csv')
+#tidy_up('Paradox Interactive.csv', 'Paradox Interactive-.csv')
+#tidy_up('Ubisoft.csv', 'Ubisoft-.csv')
+#tidy_up('Warner Bros.csv', 'Warner Bros-.csv')
+#tidy_up('2K Games.csv', '2K Games-.csv')
+#tidy_up('SEGA.csv', 'SEGA-.csv')
+#tidy_up('Valve.csv', 'Valve-.csv')

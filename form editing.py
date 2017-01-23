@@ -6,7 +6,7 @@ def divide(source, output):
     '''Divides the scores and times into two separate columns'''
     with open(source, "r") as csv_source:
         with open(output, 'w') as csv_dat:
-            fieldnames = ['#','Game','Release date', 'Price', 'Userscore', 'Metascore', 'Owners', 'Average playtime', 'Median playtime']
+            fieldnames = ['#','Game','Release year', 'Price', 'Userscore', 'Metascore', 'Owners', 'Average playtime', 'Median playtime']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
 
@@ -59,15 +59,20 @@ def tidy_up(source, output):
     '''tidies up a couple of the data entries'''
     with open(source, "r") as csv_source:
         with open(output, 'w') as csv_dat:
-            fieldnames = ['#','Game','Release date', 'Price', 'Score rank(Userscore / Metascore)', 'Owners', 'Playtime (Median)']
+            fieldnames = ['#','Game','Release year', 'Price', 'Score rank(Userscore / Metascore)', 'Owners', 'Playtime (Median)']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
 
             dic = []
 
             for row in reader:
-                number = re.search(r'(.+) .*', row['Owners'])
+                number = re.search(r'(.+) .*', row['Owners'])   # leaving only a precise number of owners
                 row['Owners'] = number.group(1)
+
+                year = re.search(r'.+, (\d{4})', row['Release date'])    # changing it to year of release
+                row['Release year'] = year.group(1) if year != None else '/'
+                del row['Release date']
+
                 dic.append(row)
 
             writer.writeheader()
@@ -77,6 +82,10 @@ def tidy_up(source, output):
 
 
 def editing(source, output):
+    '''all together'''
     filter(source, output)
     tidy_up(output, source)
     divide(source, output)
+
+
+#editing('Activision.csv', 'Activision_edit.csv')
