@@ -1,9 +1,9 @@
-Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Median playtime,Average playtime
-Don't Starve Together Beta,2016,$14.99,96%,83%,Klei Entertainment,"5,553,465",7:55,22:34
-Don't Starve,,$14.99,97%,79%,Klei Entertainment,"3,952,543",6:06,23:01
-Mark of the Ninja,2012,$14.99,97%,91%,Klei Entertainment,"1,635,045",3:18,6:52
-Crypt of the NecroDancer,2015,$14.99,97%,87%,Klei Entertainment,"658,947",4:11,11:42
-Shank 2,2012,$9.99,84%,72%,Klei Entertainment,"602,076",1:44,3:25
-Eets Munchies,2014,$6.99,80%,/,Klei Entertainment,"528,712",0:42,1:43
-Shank,2010,$9.99,90%,67%,Klei Entertainment,"520,939",0:54,2:10
-"Invisible, Inc.",2015,$19.99,93%,82%,Klei Entertainment,"286,441",3:45,10:33
+Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Average playtime,Median playtime
+Don't Starve Together Beta,2016,$14.99,96,83,Klei Entertainment,5553465,22.204,7.33
+Don't Starve,,$14.99,97,79,Klei Entertainment,3952543,23.006,6.036
+Mark of the Ninja,2012,$14.99,97,91,Klei Entertainment,1635045,6.312,3.108
+Crypt of the NecroDancer,2015,$14.99,97,87,Klei Entertainment,658947,11.252,4.066
+Shank 2,2012,$9.99,84,72,Klei Entertainment,602076,3.15,1.264
+Eets Munchies,2014,$6.99,80,/,Klei Entertainment,528712,1.258,0.252
+Shank,2010,$9.99,90,67,Klei Entertainment,520939,2.06,0.324
+"Invisible, Inc.",2015,$19.99,93,82,Klei Entertainment,286441,10.198,3.27

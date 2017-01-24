@@ -1,51 +1,51 @@
-Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Median playtime,Average playtime
-Magicka,2011,$9.99,94%,74%,Paradox Interactive,"3,645,818",4:48,10:20
-Cities: Skylines,2015,$29.99,93%,85%,Paradox Interactive,"3,107,627",12:14,36:16
-Crusader Kings II,2012,$39.99,92%,82%,Paradox Interactive,"1,412,679",11:14,114:44
-War of the Roses,2013,Free,57%,73%,Paradox Interactive,"1,257,800",0:59,12:03
-Europa Universalis IV,2013,$39.99,92%,87%,Paradox Interactive,"1,142,541",31:42,200:58
-Dungeonland,2013,Free,71%,67%,Paradox Interactive,"1,052,684",0:54,2:49
-Pillars of Eternity,2015,$44.99,88%,89%,Paradox Interactive,"876,573",18:24,41:33
-Warlock - Master of the Arcane,2012,$24.99,86%,71%,Paradox Interactive,"799,797",2:43,18:57
-Teleglitch: Die More Edition,2013,$12.99,85%,78%,Paradox Interactive,"771,931",0:56,2:31
-Stellaris,2016,$39.99,87%,78%,Paradox Interactive,"745,012",34:38,65:21
-Cities in Motion 2,2013,$19.99,59%,72%,Paradox Interactive,"681,126",1:20,14:13
-Magicka 2,2015,$14.99,73%,69%,Paradox Interactive,"546,911",3:30,5:24
-Hearts of Iron III,2009,$9.99,81%,77%,Paradox Interactive,"524,920",4:35,51:23
-The Showdown Effect,2013,$9.99,65%,67%,Paradox Interactive,"514,494",1:06,3:37
-Hearts of Iron IV,2016,$39.99,83%,83%,Paradox Interactive,"467,860",43:23,86:14
-Europa Universalis III,2009,$14.99,87%,83%,Paradox Interactive,"467,670",2:27,46:05
-Knights of Pen and Paper +1,2013,$9.99,85%,/,Paradox Interactive,"441,320",3:10,6:44
-Victoria II,2010,$19.99,90%,75%,Paradox Interactive,"437,908",9:25,57:05
-Leviathan: Warships,2013,$9.99,53%,/,Paradox Interactive,"287,578",0:45,2:58
-King Arthur - The Role-playing Wargame,2009,$9.99,76%,/,Paradox Interactive,"262,555",2:37,17:52
-Cities in Motion,2011,$19.99,76%,70%,Paradox Interactive,"251,560",2:58,19:49
-Ship Simulator Extremes,2010,$19.99,46%,49%,Paradox Interactive,"187,675",2:59,18:28
-Victoria: Revolutions,2010,$9.99,71%,/,Paradox Interactive,"166,064",0:11,13:53
-Sword of the Stars II: Enhanced Edition,2012,$19.99,43%,65%,Paradox Interactive,"162,651",1:42,23:09
-King Arthur II - The Role-playing Wargame,2012,$9.99,50%,66%,Paradox Interactive,"159,618",2:06,10:51
-Darkest Hour: A Hearts of Iron Game,2011,$9.99,92%,81%,Paradox Interactive,"141,799",3:50,59:01
-Tyranny,2016,$44.99,88%,80%,Paradox Interactive,"137,059",15:03,24:06
-Sword of the Stars Complete Collection,2010,$9.99,92%,75%,Paradox Interactive,"129,287",3:44,30:12
-Majesty 2 Collection,2011,$19.99,77%,/,Paradox Interactive,"120,377",7:33,23:05
-Impire,2013,$19.99,46%,45%,Paradox Interactive,"117,534",4:33,9:22
-Majesty: Gold Edition,2009,$9.99,94%,/,Paradox Interactive,"114,311",1:31,6:37
-Sengoku,2011,$9.99,67%,70%,Paradox Interactive,"109,572",1:24,4:56
-Majesty 2,2009,$9.99,74%,72%,Paradox Interactive,"103,885",7:55,25:20
-A Game of Dwarves,2012,$9.99,64%,60%,Paradox Interactive,"103,126",3:29,12:54
-Knights of Honor,2009,$9.99,92%,77%,Paradox Interactive,"99,714",5:56,17:35
-Crusader Kings Complete,2012,$9.99,63%,73%,Paradox Interactive,"89,098",0:33,6:10
-War of the Vikings,2014,$24.99,59%,62%,Paradox Interactive,"87,771",3:03,14:28
-Hearts of Iron II: Complete,2009,$14.99,87%,83%,Paradox Interactive,"87,202",2:20,48:51
-The Kings' Crusade,2010,$9.99,40%,71%,Paradox Interactive,"81,136",1:44,6:41
-Warlock 2: the Exiled,2014,$19.99,65%,73%,Paradox Interactive,"79,620",6:55,24:36
-Europa Universalis: Rome - Gold Edition,2008,$9.99,66%,79%,Paradox Interactive,"77,155",2:39,21:03
-March of the Eagles,2013,$19.99,66%,71%,Paradox Interactive,"69,762",2:54,14:42
-Naval War: Arctic Circle,2012,$19.99,40%,64%,Paradox Interactive,"65,970",1:46,6:51
-Knights of Pen and Paper 2,2015,$7.99,84%,/,Paradox Interactive,"64,644",5:26,8:47
-Arsenal of Democracy,2010,$9.99,85%,/,Paradox Interactive,"56,682",1:41,28:06
-Defenders of Ardania,2012,$9.99,32%,58%,Paradox Interactive,"49,288",0:42,2:49
-Ancient Space,2014,$19.99,46%,/,Paradox Interactive,"44,928",1:38,4:46
-Magicka: Wizards of the Square Tablet,2013,$4.99,85%,/,Paradox Interactive,"43,032",0:53,1:28
-Gettysburg: Armored Warfare,2012,$9.99,29%,22%,Paradox Interactive,"41,895",0:23,0:41
-Sword of the Stars,2010,$9.99,92%,75%,Paradox Interactive,"19,526",11:15,46:22
+Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Average playtime,Median playtime
+Magicka,2011,$9.99,94,74,Paradox Interactive,3645818,10.12,4.288
+Cities: Skylines,2015,$29.99,93,85,Paradox Interactive,3107627,36.096,12.084
+Crusader Kings II,2012,$39.99,92,82,Paradox Interactive,1412679,114.264,11.084
+War of the Roses,2013,Free,57,73,Paradox Interactive,1257800,12.018,0.354
+Europa Universalis IV,2013,$39.99,92,87,Paradox Interactive,1142541,200.348,31.252
+Dungeonland,2013,Free,71,67,Paradox Interactive,1052684,2.294,0.324
+Pillars of Eternity,2015,$44.99,88,89,Paradox Interactive,876573,41.198,18.144
+Warlock - Master of the Arcane,2012,$24.99,86,71,Paradox Interactive,799797,18.342,2.258
+Teleglitch: Die More Edition,2013,$12.99,85,78,Paradox Interactive,771931,2.186,0.336
+Stellaris,2016,$39.99,87,78,Paradox Interactive,745012,65.126,34.228
+Cities in Motion 2,2013,$19.99,59,72,Paradox Interactive,681126,14.078,1.12
+Magicka 2,2015,$14.99,73,69,Paradox Interactive,546911,5.144,3.18
+Hearts of Iron III,2009,$9.99,81,77,Paradox Interactive,524920,51.138,4.21
+The Showdown Effect,2013,$9.99,65,67,Paradox Interactive,514494,3.222,1.036
+Hearts of Iron IV,2016,$39.99,83,83,Paradox Interactive,467860,86.084,43.138
+Europa Universalis III,2009,$14.99,87,83,Paradox Interactive,467670,46.03,2.162
+Knights of Pen and Paper +1,2013,$9.99,85,/,Paradox Interactive,441320,6.264,3.06
+Victoria II,2010,$19.99,90,75,Paradox Interactive,437908,57.03,9.15
+Leviathan: Warships,2013,$9.99,53,/,Paradox Interactive,287578,2.348,0.27
+King Arthur - The Role-playing Wargame,2009,$9.99,76,/,Paradox Interactive,262555,17.312,2.222
+Cities in Motion,2011,$19.99,76,70,Paradox Interactive,251560,19.294,2.348
+Ship Simulator Extremes,2010,$19.99,46,49,Paradox Interactive,187675,18.168,2.354
+Victoria: Revolutions,2010,$9.99,71,/,Paradox Interactive,166064,13.318,0.066
+Sword of the Stars II: Enhanced Edition,2012,$19.99,43,65,Paradox Interactive,162651,23.054,1.252
+King Arthur II - The Role-playing Wargame,2012,$9.99,50,66,Paradox Interactive,159618,10.306,2.036
+Darkest Hour: A Hearts of Iron Game,2011,$9.99,92,81,Paradox Interactive,141799,59.006,3.3
+Tyranny,2016,$44.99,88,80,Paradox Interactive,137059,24.036,15.018
+Sword of the Stars Complete Collection,2010,$9.99,92,75,Paradox Interactive,129287,30.072,3.2640000000000002
+Majesty 2 Collection,2011,$19.99,77,/,Paradox Interactive,120377,23.03,7.198
+Impire,2013,$19.99,46,45,Paradox Interactive,117534,9.132,4.198
+Majesty: Gold Edition,2009,$9.99,94,/,Paradox Interactive,114311,6.222,1.186
+Sengoku,2011,$9.99,67,70,Paradox Interactive,109572,4.336,1.144
+Majesty 2,2009,$9.99,74,72,Paradox Interactive,103885,25.12,7.33
+A Game of Dwarves,2012,$9.99,64,60,Paradox Interactive,103126,12.324,3.174
+Knights of Honor,2009,$9.99,92,77,Paradox Interactive,99714,17.21,5.336
+Crusader Kings Complete,2012,$9.99,63,73,Paradox Interactive,89098,6.06,0.198
+War of the Vikings,2014,$24.99,59,62,Paradox Interactive,87771,14.168,3.018
+Hearts of Iron II: Complete,2009,$14.99,87,83,Paradox Interactive,87202,48.306,2.12
+The Kings' Crusade,2010,$9.99,40,71,Paradox Interactive,81136,6.2459999999999996,1.264
+Warlock 2: the Exiled,2014,$19.99,65,73,Paradox Interactive,79620,24.216,6.33
+Europa Universalis: Rome - Gold Edition,2008,$9.99,66,79,Paradox Interactive,77155,21.018,2.234
+March of the Eagles,2013,$19.99,66,71,Paradox Interactive,69762,14.252,2.324
+Naval War: Arctic Circle,2012,$19.99,40,64,Paradox Interactive,65970,6.306,1.276
+Knights of Pen and Paper 2,2015,$7.99,84,/,Paradox Interactive,64644,8.282,5.156
+Arsenal of Democracy,2010,$9.99,85,/,Paradox Interactive,56682,28.036,1.246
+Defenders of Ardania,2012,$9.99,32,58,Paradox Interactive,49288,2.294,0.252
+Ancient Space,2014,$19.99,46,/,Paradox Interactive,44928,4.276,1.228
+Magicka: Wizards of the Square Tablet,2013,$4.99,85,/,Paradox Interactive,43032,1.168,0.318
+Gettysburg: Armored Warfare,2012,$9.99,29,22,Paradox Interactive,41895,0.24599999999999997,0.138
+Sword of the Stars,2010,$9.99,92,75,Paradox Interactive,19526,46.132,11.09

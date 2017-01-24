@@ -1,41 +1,41 @@
-Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Median playtime,Average playtime
-Mirror's Edge,2009,$19.99,89%,81%,Electronic Arts,"2,788,391",2:08,4:40
-Dead Space,2009,$19.99,89%,86%,Electronic Arts,"2,272,570",1:44,6:31
-Crysis 2 Maximum Edition,2011,$29.99,81%,/,Electronic Arts,"2,173,235",2:33,6:48
-Burnout Paradise: The Ultimate Box,2009,$19.99,87%,87%,Electronic Arts,"2,042,431",1:56,7:15
-Battlefield: Bad Company 2,2010,$4.99,87%,87%,Electronic Arts,"1,916,177",11:09,53:49
-Mass Effect 2,2010,$19.99,96%,94%,Electronic Arts,"1,763,763",25:40,39:34
-Medal of Honor(TM) Multiplayer,2010,$19.99,68%,72%,Electronic Arts,"1,636,372",0:51,6:41
-Medal of Honor(TM) Single Player,2010,$19.99,68%,72%,Electronic Arts,"1,636,372",1:21,4:13
-Mass Effect,2008,$19.99,94%,89%,Electronic Arts,"1,568,316",11:21,23:24
-Spore,2008,$19.99,88%,84%,Electronic Arts,"1,560,164",6:55,17:22
-Dead Space 2,2011,$19.99,94%,87%,Electronic Arts,"1,348,414",4:17,10:06
-The Sims(TM) 3,2011,$19.99,85%,86%,Electronic Arts,"1,205,099",16:40,66:40
-SimCity 4 Deluxe,2010,$19.99,77%,/,Electronic Arts,"1,161,119",3:18,18:47
-Dragon Age: Origins - Ultimate Edition,2010,$29.99,94%,91%,Electronic Arts,"1,142,730",12:34,38:01
-Command and Conquer: Red Alert 3 - Uprising,2009,$19.99,75%,/,Electronic Arts,"1,130,408",1:07,17:57
-Crysis,2008,$19.99,84%,91%,Electronic Arts,"1,001,880",3:32,7:56
-Need for Speed: Hot Pursuit,2010,$19.99,81%,86%,Electronic Arts,"868,422",3:39,9:58
-Crysis Wars,2008,$19.99,85%,84%,Electronic Arts,"857,806",0:13,1:46
-Crysis Warhead,2008,$19.99,85%,84%,Electronic Arts,"857,806",2:23,4:37
-Kingdoms of Amalur: Reckoning,2012,$19.99,88%,81%,Electronic Arts,"843,020",8:53,25:48
-Dragon Age: Origins,2009,$19.99,93%,91%,Electronic Arts,"827,664",20:03,55:05
-Spore: Galactic Adventures,2009,$19.99,78%,70%,Electronic Arts,"767,571",3:33,17:27
-Command and Conquer: Red Alert 3,2009,$19.99,84%,82%,Electronic Arts,"704,064",4:48,15:06
-Spore: Creepy & Cute Parts Pack,2008,$19.99,83%,/,Electronic Arts,"700,273",0:59,6:22
-Alice: Madness Returns,,Free,87%,75%,Electronic Arts,"670,890",3:31,9:06
-Command and Conquer 3: Tiberium Wars,2009,$14.99,90%,85%,Electronic Arts,"430,893",5:06,16:16
-Bulletstorm,2011,$4.99,78%,82%,Electronic Arts,"370,610",3:30,6:06
-Need for Speed: Undercover,2008,$9.99,69%,65%,Electronic Arts,"292,886",3:40,12:41
-Command and Conquer 4: Tiberian Twilight,2010,$19.99,21%,64%,Electronic Arts,"283,218",2:28,7:10
-Command and Conquer 3: Kane's Wrath,2009,$19.99,95%,77%,Electronic Arts,"232,034",6:21,22:46
-Jade Empire: Special Edition,2007,$14.99,75%,81%,Electronic Arts,"205,115",1:56,8:38
-Shift 2 Unleashed,2011,$19.99,60%,84%,Electronic Arts,"194,878",3:28,13:23
-Need for Speed: SHIFT,2009,$19.99,74%,83%,Electronic Arts,"183,125",3:27,9:57
-Medal of Honor: Airborne,2009,$9.99,79%,78%,Electronic Arts,"166,822",2:32,8:13
-Dragon Age: Origins - Awakening,2010,$9.99,94%,82%,Electronic Arts,"150,519",0:01,0:18
-DeathSpank,2010,$14.99,95%,77%,Electronic Arts,"135,543",3:52,6:35
-Crysis 2,2011,$29.99,81%,/,Electronic Arts,"103,695",18:50,29:15
-DeathSpank: Thongs Of Virtue,2010,$14.99,85%,78%,Electronic Arts,"101,420",3:17,7:33
-RISK Factions,2011,$9.99,68%,77%,Electronic Arts,"71,468",4:26,17:06
-WARP,2012,$9.99,75%,/,Electronic Arts,"43,601",1:06,3:09
+Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Average playtime,Median playtime
+Mirror's Edge,2009,$19.99,89,81,Electronic Arts,2788391,4.24,2.048
+Dead Space,2009,$19.99,89,86,Electronic Arts,2272570,6.186,1.264
+Crysis 2 Maximum Edition,2011,$29.99,81,/,Electronic Arts,2173235,6.288,2.198
+Burnout Paradise: The Ultimate Box,2009,$19.99,87,87,Electronic Arts,2042431,7.09,1.336
+Battlefield: Bad Company 2,2010,$4.99,87,87,Electronic Arts,1916177,53.294,11.054
+Mass Effect 2,2010,$19.99,96,94,Electronic Arts,1763763,39.204,25.24
+Medal of Honor(TM) Multiplayer,2010,$19.99,68,72,Electronic Arts,1636372,6.2459999999999996,0.306
+Medal of Honor(TM) Single Player,2010,$19.99,68,72,Electronic Arts,1636372,4.078,1.126
+Mass Effect,2008,$19.99,94,89,Electronic Arts,1568316,23.144,11.126
+Spore,2008,$19.99,88,84,Electronic Arts,1560164,17.132,6.33
+Dead Space 2,2011,$19.99,94,87,Electronic Arts,1348414,10.036,4.102
+The Sims(TM) 3,2011,$19.99,85,86,Electronic Arts,1205099,66.24,16.24
+SimCity 4 Deluxe,2010,$19.99,77,/,Electronic Arts,1161119,18.282,3.108
+Dragon Age: Origins - Ultimate Edition,2010,$29.99,94,91,Electronic Arts,1142730,38.006,12.204
+Command and Conquer: Red Alert 3 - Uprising,2009,$19.99,75,/,Electronic Arts,1130408,17.342,1.042
+Crysis,2008,$19.99,84,91,Electronic Arts,1001880,7.336,3.192
+Need for Speed: Hot Pursuit,2010,$19.99,81,86,Electronic Arts,868422,9.348,3.234
+Crysis Wars,2008,$19.99,85,84,Electronic Arts,857806,1.276,0.078
+Crysis Warhead,2008,$19.99,85,84,Electronic Arts,857806,4.222,2.138
+Kingdoms of Amalur: Reckoning,2012,$19.99,88,81,Electronic Arts,843020,25.288,8.318
+Dragon Age: Origins,2009,$19.99,93,91,Electronic Arts,827664,55.03,20.018
+Spore: Galactic Adventures,2009,$19.99,78,70,Electronic Arts,767571,17.162,3.198
+Command and Conquer: Red Alert 3,2009,$19.99,84,82,Electronic Arts,704064,15.036,4.288
+Spore: Creepy & Cute Parts Pack,2008,$19.99,83,/,Electronic Arts,700273,6.132,0.354
+Alice: Madness Returns,,Free,87,75,Electronic Arts,670890,9.036,3.186
+Command and Conquer 3: Tiberium Wars,2009,$14.99,90,85,Electronic Arts,430893,16.096,5.036
+Bulletstorm,2011,$4.99,78,82,Electronic Arts,370610,6.036,3.18
+Need for Speed: Undercover,2008,$9.99,69,65,Electronic Arts,292886,12.246,3.24
+Command and Conquer 4: Tiberian Twilight,2010,$19.99,21,64,Electronic Arts,283218,7.06,2.168
+Command and Conquer 3: Kane's Wrath,2009,$19.99,95,77,Electronic Arts,232034,22.276,6.126
+Jade Empire: Special Edition,2007,$14.99,75,81,Electronic Arts,205115,8.228,1.336
+Shift 2 Unleashed,2011,$19.99,60,84,Electronic Arts,194878,13.138,3.168
+Need for Speed: SHIFT,2009,$19.99,74,83,Electronic Arts,183125,9.342,3.162
+Medal of Honor: Airborne,2009,$9.99,79,78,Electronic Arts,166822,8.078,2.192
+Dragon Age: Origins - Awakening,2010,$9.99,94,82,Electronic Arts,150519,0.108,0.006
+DeathSpank,2010,$14.99,95,77,Electronic Arts,135543,6.21,3.312
+Crysis 2,2011,$29.99,81,/,Electronic Arts,103695,29.09,18.3
+DeathSpank: Thongs Of Virtue,2010,$14.99,85,78,Electronic Arts,101420,7.198,3.102
+RISK Factions,2011,$9.99,68,77,Electronic Arts,71468,17.036,4.156
+WARP,2012,$9.99,75,/,Electronic Arts,43601,3.054,1.036

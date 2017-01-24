@@ -1,32 +1,32 @@
-Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Median playtime,Average playtime
-Dota 2,2013,Free,89%,90%,Valve,"92,974,419",4:51,199:08
-Team Fortress 2,2007,Free,94%,92%,Valve,"38,092,274",4:07,74:35
-Counter-Strike: Global Offensive,2012,$14.99,92%,83%,Valve,"26,599,759",80:21,280:53
-Left 4 Dead 2,2009,$19.99,97%,89%,Valve,"15,773,394",9:17,38:46
-Counter-Strike: Source,2004,$19.99,95%,88%,Valve,"15,328,472",11:26,135:57
-Half-Life 2: Lost Coast,2005,Free,83%,/,Valve,"14,949,711",0:25,0:55
-Half-Life 2: Deathmatch,2004,$4.99,89%,/,Valve,"14,062,711",0:38,9:24
-Counter-Strike,2000,$9.99,97%,88%,Valve,"13,080,546",7:22,180:12
-Garry's Mod,2006,$9.99,95%,/,Valve,"12,875,242",15:59,94:44
-Counter-Strike: Condition Zero Deleted Scenes,2004,$9.99,90%,65%,Valve,"10,568,360",0:33,4:15
-Counter-Strike: Condition Zero,2004,$9.99,90%,65%,Valve,"10,568,360",1:23,33:50
-Half-Life 2,2004,$9.99,97%,96%,Valve,"9,997,184",4:59,12:05
-Portal,2007,$9.99,98%,90%,Valve,"9,823,158",2:57,5:25
-Portal 2,2011,$19.99,98%,95%,Valve,"8,976,537",9:41,16:18
-Day of Defeat,2003,$4.99,90%,79%,Valve,"7,601,393",0:27,14:06
-Deathmatch Classic,2001,$4.99,84%,/,Valve,"7,484,239",0:08,1:28
-Ricochet,2000,$4.99,81%,/,Valve,"7,470,400",0:04,1:03
-Half-Life Deathmatch: Source,2006,$9.99,74%,/,Valve,"6,880,078",0:10,1:44
-Day of Defeat: Source,2010,$9.99,91%,80%,Valve,"6,477,999",1:41,31:35
-Half-Life 2: Episode One,2006,$7.99,95%,87%,Valve,"6,376,200",3:21,5:07
-Half-Life,1998,$9.99,96%,96%,Valve,"6,026,064",1:32,8:30
-Half-Life 2: Episode Two,2007,$7.99,96%,90%,Valve,"5,802,181",5:04,7:49
-Team Fortress Classic,1999,$4.99,83%,/,Valve,"5,481,428",0:16,13:49
-Half-Life: Opposing Force,1999,$4.99,95%,/,Valve,"5,471,949",1:43,6:40
-Half-Life: Blue Shift,2001,$4.99,90%,71%,Valve,"5,448,063",1:12,4:12
-Alien Swarm,2010,Free,95%,77%,Valve,"4,818,121",1:36,5:26
-Left 4 Dead,2008,$19.99,95%,89%,Valve,"4,512,723",7:36,37:38
-Half-Life: Source,2004,$9.99,81%,/,Valve,"3,082,983",1:03,5:11
-Source Filmmaker,2012,Free,92%,/,Valve,"1,160,171",0:56,15:15
-The Lab,2016,Free,98%,/,Valve,"495,916",1:18,4:21
-Destinations,2016,Free,95%,/,Valve,"119,998",0:17,0:51
+Game,Release year,Price,Userscore,Metascore,Publisher,Owners,Average playtime,Median playtime
+Dota 2,2013,Free,89,90,Valve,92974419,199.048,4.306
+Team Fortress 2,2007,Free,94,92,Valve,38092274,74.21,4.042
+Counter-Strike: Global Offensive,2012,$14.99,92,83,Valve,26599759,280.318,80.126
+Left 4 Dead 2,2009,$19.99,97,89,Valve,15773394,38.276,9.102
+Counter-Strike: Source,2004,$19.99,95,88,Valve,15328472,135.342,11.156
+Half-Life 2: Lost Coast,2005,Free,83,/,Valve,14949711,0.33,0.15
+Half-Life 2: Deathmatch,2004,$4.99,89,/,Valve,14062711,9.144,0.22799999999999998
+Counter-Strike,2000,$9.99,97,88,Valve,13080546,180.072,7.132
+Garry's Mod,2006,$9.99,95,/,Valve,12875242,94.264,15.354
+Counter-Strike: Condition Zero Deleted Scenes,2004,$9.99,90,65,Valve,10568360,4.09,0.198
+Counter-Strike: Condition Zero,2004,$9.99,90,65,Valve,10568360,33.3,1.138
+Half-Life 2,2004,$9.99,97,96,Valve,9997184,12.03,4.354
+Portal,2007,$9.99,98,90,Valve,9823158,5.15,2.342
+Portal 2,2011,$19.99,98,95,Valve,8976537,16.108,9.246
+Day of Defeat,2003,$4.99,90,79,Valve,7601393,14.036,0.162
+Deathmatch Classic,2001,$4.99,84,/,Valve,7484239,1.168,0.048
+Ricochet,2000,$4.99,81,/,Valve,7470400,1.018,0.024
+Half-Life Deathmatch: Source,2006,$9.99,74,/,Valve,6880078,1.264,0.06
+Day of Defeat: Source,2010,$9.99,91,80,Valve,6477999,31.21,1.246
+Half-Life 2: Episode One,2006,$7.99,95,87,Valve,6376200,5.042,3.126
+Half-Life,1998,$9.99,96,96,Valve,6026064,8.18,1.192
+Half-Life 2: Episode Two,2007,$7.99,96,90,Valve,5802181,7.294,5.024
+Team Fortress Classic,1999,$4.99,83,/,Valve,5481428,13.294,0.096
+Half-Life: Opposing Force,1999,$4.99,95,/,Valve,5471949,6.24,1.258
+Half-Life: Blue Shift,2001,$4.99,90,71,Valve,5448063,4.072,1.072
+Alien Swarm,2010,Free,95,77,Valve,4818121,5.156,1.216
+Left 4 Dead,2008,$19.99,95,89,Valve,4512723,37.228,7.216
+Half-Life: Source,2004,$9.99,81,/,Valve,3082983,5.066,1.018
+Source Filmmaker,2012,Free,92,/,Valve,1160171,15.09,0.336
+The Lab,2016,Free,98,/,Valve,495916,4.126,1.108
+Destinations,2016,Free,95,/,Valve,119998,0.306,0.10200000000000001
