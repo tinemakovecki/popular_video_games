@@ -3,11 +3,11 @@ import numpy
 
 
 
-def Datatype_fix(source, output):
+def Datatype_fix(source, output, category):
     '''Corrects the types of columns containing number data'''
-    with open(source, "r") as csv_source:
-        with open(output, 'w') as csv_dat:
-            fieldnames = ['Game','Release year', 'Price', 'Userscore', 'Metascore', 'Publisher', 'Owners', 'Average playtime', 'Median playtime']
+    with open(source, "r", encoding="utf8") as csv_source:
+        with open(output, 'w', encoding="utf8") as csv_dat:
+            fieldnames = ['Game','Release year', 'Price', 'Userscore', 'Metascore', category, 'Owners', 'Average playtime', 'Median playtime']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
 
@@ -15,11 +15,11 @@ def Datatype_fix(source, output):
 
             for row in reader:
 
-                row['Release year'] = int(row['Release year']) if row['Release year'] else ''
+                row['Release year'] = int(row['Release year']) if row['Release year'] != '/' else ''
 
-                row['Userscore'] = int(row['Userscore'].replace('%', ''))
+                row['Userscore'] = int(row['Userscore'].replace('%', '')) if row['Userscore'] != '/' and row['Userscore'] != '' else '/'
 
-                row['Metascore'] = int(row['Metascore'].replace('%', '')) if row['Metascore'] != '/' else '/'
+                row['Metascore'] = int(row['Metascore'].replace('%', '')) if row['Metascore'] != '/' and row['Metascore'] != '' else '/'
 
                 row['Owners'] = int(row['Owners'].replace(',', ''))
 

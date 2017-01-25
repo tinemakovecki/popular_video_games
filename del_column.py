@@ -1,10 +1,10 @@
 import csv
 
 
-def del_column(source, output):
-    with open(source, "r") as csv_source:
-        with open(output, 'w') as csv_dat:
-            fieldnames = ['Game','Release year', 'Price', 'Userscore', 'Metascore', 'Publisher', 'Owners', 'Average playtime', 'Median playtime']
+def del_column(source, output, category):
+    with open(source, "r", encoding="utf8") as csv_source:
+        with open(output, 'w', encoding="utf8") as csv_dat:
+            fieldnames = ['Game', 'Release year', 'Price', 'Userscore', 'Metascore', category, 'Owners', 'Average playtime', 'Median playtime']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
 

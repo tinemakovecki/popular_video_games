@@ -4,8 +4,8 @@ import re
 
 def divide(source, output):
     '''Divides the scores and times into two separate columns'''
-    with open(source, "r") as csv_source:
-        with open(output, 'w') as csv_dat:
+    with open(source, "r", encoding="utf8") as csv_source:
+        with open(output, 'w', encoding="utf8") as csv_dat:
             fieldnames = ['#','Game','Release year', 'Price', 'Userscore', 'Metascore', 'Owners', 'Average playtime', 'Median playtime']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
@@ -15,8 +15,9 @@ def divide(source, output):
 
             for row in reader:
                 scores = re.search(r'.+\((\d{2}%)/?(\d{2}%)?\)', row['Score rank(Userscore / Metascore)'])
-                row['Userscore'] = scores.group(1)
-                row['Metascore'] = scores.group(2) if scores.group(2) != None else '/'
+                if scores != None:
+                    row['Userscore'] = scores.group(1) if scores.group(1) != None else '/'
+                    row['Metascore'] = scores.group(2) if scores.group(2) != None else '/'
                 del row['Score rank(Userscore / Metascore)']
 
 
@@ -37,8 +38,8 @@ def divide(source, output):
 
 def filter(source, output):
     '''removes games with lacking score data'''
-    with open(source, "r") as csv_source:
-        with open(output, 'w') as csv_dat:
+    with open(source, "r", encoding="utf8") as csv_source:
+        with open(output, 'w', encoding="utf8") as csv_dat:
             fieldnames = ['#','Game','Release date', 'Price', 'Score rank(Userscore / Metascore)', 'Owners', 'Playtime (Median)']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
@@ -46,7 +47,7 @@ def filter(source, output):
             dic = []
 
             for row in reader:
-                if not re.search(r'.*N/A.+', row['Score rank(Userscore / Metascore)']):
+                if not re.search(r'.*N/A.*', row['Score rank(Userscore / Metascore)']):
                     dic.append(row)
 
             writer.writeheader()
@@ -57,8 +58,8 @@ def filter(source, output):
 
 def tidy_up(source, output):
     '''tidies up a couple of the data entries'''
-    with open(source, "r") as csv_source:
-        with open(output, 'w') as csv_dat:
+    with open(source, "r", encoding="utf8") as csv_source:
+        with open(output, 'w', encoding="utf8") as csv_dat:
             fieldnames = ['#','Game','Release year', 'Price', 'Score rank(Userscore / Metascore)', 'Owners', 'Playtime (Median)']
             reader = csv.DictReader(csv_source)
             writer = csv.DictWriter(csv_dat, fieldnames, lineterminator='\n')
